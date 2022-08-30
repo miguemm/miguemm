@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing two bachelor's degree, Software Engineering in Colombia and Apply Technology in the UUEE
 - 📫 How to reach me 
                       - mandresmosquera@gmail.com
-                      - (https://miguemm.github.io/)
+                      - https://miguemm.github.io
 
 <!---
 miguemm/miguemm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
