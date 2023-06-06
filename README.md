@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Miguel Andres Mosquera
-- 👀 I’m interested in Java Backend Development
+- 👋 Hey, I’m Miguel Andres Mosquera
+- 👀 I’m a fullstack developer
 - 🌱 I’m currently pursuing two bachelor's degree, Software Engineering in Colombia and Apply Technology in the UUEE
 - 📫 How to reach me 
   - mandresmosquera@gmail.com
